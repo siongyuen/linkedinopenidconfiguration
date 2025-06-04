@@ -1,7 +1,4 @@
 name = "linkedinopenidconfiguration"
-type = "javascript"
-compatibility_date = "2024-06-04"
-
-[build.upload]
-main = "src/index.js"
-format = "modules"
+main = "index.js"
+compatibility_date = "2025-06-04"
+workers_dev = true
